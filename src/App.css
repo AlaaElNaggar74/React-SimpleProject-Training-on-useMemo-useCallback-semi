@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.navbar .navbar-brand,
+.navbar-nav .nav-item a {
+  font-weight: bold;
+
+}
+
+.navbar .navbar-brand{
+  font-size: 2rem;
+
+}
+
+.navbar-nav li.nav-item:not(:last-child) {
+  margin-right: 20px;
+  color: aliceblue;
+}
+
+.custmNavBarBG {
+  background-color: transparent;
+}
